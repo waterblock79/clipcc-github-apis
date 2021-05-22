@@ -1,0 +1,13 @@
+{
+    "com.extension.githubapis.name": "Github APIS",
+    "com.extension.githubapis.category": "gui.extension.githubapis",
+    "com.extension.githubapis.category.name": "Github APIS",
+    "com.extension.githubapis.description": "Explore github in scratch!",
+    "com.extension.githubapis.userinfo": "get the information [NAME] of user [USER]",
+    "com.extension.githubapis.userrepos": "get the repos of user [USER]",
+    "com.extension.githubapis.userevents": "get the events of user [USER]",
+    "com.extension.githubapis.timesleft": "request times left",
+    "com.extension.githubapis.settoken": "set request token [TOKEN]",
+    "com.extension.githubapis.repoinfo": "get info [NAME] of repo [REPO_NAME] ",
+    "com.extension.githubapis.repocontent": "get content of repo [REPO_NAME] in path [PATH]"
+}

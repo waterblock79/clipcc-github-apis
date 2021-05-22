@@ -1,0 +1,23 @@
+{
+    "name": "github-apis",
+    "version": "0.1.0",
+    "description": "Explore Github with a ClipCC extension",
+    "main": "dist/main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "rimraf ./build && mkdirp build && rimraf ./dist && mkdirp dist && webpack --colors --bail"
+    },
+    "author": "waterblock79",
+    "license": "MIT",
+    "dependencies": {
+        "clipcc-extension": "^0.1.1"
+    },
+    "devDependencies": {
+        "copy-webpack-plugin": "^6.2.0",
+        "mkdirp": "^1.0.4",
+        "rimraf": "^3.0.2",
+        "webpack": "^4.44.2",
+        "webpack-cli": "^3.3.12",
+        "zip-webpack-plugin": "^3.0.0"
+    }
+}

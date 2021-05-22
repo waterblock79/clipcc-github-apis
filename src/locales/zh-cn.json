@@ -1,0 +1,13 @@
+{
+    "com.extension.githubapis.name": "Github APIS",
+    "com.extension.githubapis.category": "gui.extension.githubapis",
+    "com.extension.githubapis.category.name": "Github APIS",
+    "com.extension.githubapis.description": "在 Scratch 中探索 Github！",
+    "com.extension.githubapis.userinfo": "获取用户 [USER] 的基础信息 [NAME]",
+    "com.extension.githubapis.userrepos": "获取用户 [USER] 的存储库",
+    "com.extension.githubapis.userevents": "获取用户 [USER] 的事件",
+    "com.extension.githubapis.timesleft": "剩余的请求次数",
+    "com.extension.githubapis.settoken": "设置请求 Token [TOKEN]",
+    "com.extension.githubapis.repoinfo": "获取存储库 [REPO_NAME] 的信息 [NAME]",
+    "com.extension.githubapis.repocontent": "获取存储库 [REPO_NAME] 路径 [PATH] 的内容"
+}
